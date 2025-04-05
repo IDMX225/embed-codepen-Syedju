@@ -127,10 +127,10 @@ footer {
   font-size: 1.1em;
 }
 
-@media screen and (min-width: 80rem) {
+@media screen and (min-width:80rem) {
   main {
     display: grid;
-    grid-template-columns: 3fr 2fr;
+    grid-template-columns: auto;
     column-gap: 1em;
   }
 
