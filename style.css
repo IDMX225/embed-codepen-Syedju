@@ -133,6 +133,7 @@ footer {
     grid-template-columns: auto;
     column-gap: 1em;
   }
+  
 
   h2 {
     margin: 0;
@@ -159,4 +160,9 @@ footer {
     order: 3;
     grid-column: 1/-1;
   }
+}
+
+#myVideo {
+
+ height: auto; width: 560px; 
 }
